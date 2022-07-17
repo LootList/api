@@ -1,0 +1,22 @@
+{
+  "name": "@lootlist/api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LootList/api.git"
+  },
+  "publishConfig": {
+    "@LootList:registry": "https://npm.pkg.github.com"
+  },
+  "author": "LootList",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LootList/api/issues"
+  },
+  "homepage": "https://github.com/LootList/api#readme"
+}
